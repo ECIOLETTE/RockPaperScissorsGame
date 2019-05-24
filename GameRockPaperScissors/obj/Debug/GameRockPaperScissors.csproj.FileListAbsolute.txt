@@ -1,0 +1,10 @@
+C:\Repositories\GameRockPaperScissors\GameRockPaperScissors\bin\Debug\GameRockPaperScissors.exe.config
+C:\Repositories\GameRockPaperScissors\GameRockPaperScissors\bin\Debug\GameRockPaperScissors.exe
+C:\Repositories\GameRockPaperScissors\GameRockPaperScissors\bin\Debug\GameRockPaperScissors.pdb
+C:\Repositories\GameRockPaperScissors\GameRockPaperScissors\obj\Debug\GameRockPaperScissors.csprojAssemblyReference.cache
+C:\Repositories\GameRockPaperScissors\GameRockPaperScissors\obj\Debug\GameRockPaperScissors.Form1.resources
+C:\Repositories\GameRockPaperScissors\GameRockPaperScissors\obj\Debug\GameRockPaperScissors.Properties.Resources.resources
+C:\Repositories\GameRockPaperScissors\GameRockPaperScissors\obj\Debug\GameRockPaperScissors.csproj.GenerateResource.cache
+C:\Repositories\GameRockPaperScissors\GameRockPaperScissors\obj\Debug\GameRockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Repositories\GameRockPaperScissors\GameRockPaperScissors\obj\Debug\GameRockPaperScissors.exe
+C:\Repositories\GameRockPaperScissors\GameRockPaperScissors\obj\Debug\GameRockPaperScissors.pdb
